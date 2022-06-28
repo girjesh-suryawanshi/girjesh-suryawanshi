@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=girjesh-suryawanshi" alt="girjesh-suryawanshi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/girjeshsuryawa1" target="blank"><img src="https://img.shields.io/twitter/follow/girjeshsuryawa1?logo=twitter&style=for-the-badge" alt="girjeshsuryawa1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/girjesh1386" target="blank"><img src="https://img.shields.io/twitter/follow/girjeshsuryawa1?logo=twitter&style=for-the-badge" alt="girjeshsuryawa1" /></a> </p>
 
 - 🔭 I’m currently working on [Consumer Forum Complain redressal System](https://github.com/girjesh-suryawanshi/cforum)
 
